@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="haida@10.140.34.185:22 (4)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="bio@10.140.33.109:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/ST-18T/xiaoyu/HiSIF-DTA-xiaoyu" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bio@10.140.33.109:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/ST-18T/xiaoyu/HiSIF-DTA-xiaoyu" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bio@10.140.33.109:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bio@10.140.33.109:22 (4)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bio@10.140.33.109:22 (5)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bio@10.140.33.109:22 (6)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bio@10.140.33.109:22 (7)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bio@10.140.33.109:22 (8)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="haida@10.140.34.119:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/ST-18T/xiaoyu/HiSIF-DTA-xiaoyu" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="haida@10.140.34.119:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="haida@10.140.34.119:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="haida@10.140.34.119:22 (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/ST-18T/xiaoyu/HiSIF-DTA-xiaoyu" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="haida@10.140.34.119:22 (5)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="haida@10.140.34.185:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="haida@10.140.34.185:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/ST-18T/xiaoyu/HiSIF-DTA-xiaoyu" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="haida@10.140.34.185:22 (3)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="haida@10.140.34.185:22 (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/ST-18T/xiaoyu/RWDTA" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="haida@10.149.3.149:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="haida@10.149.3.149:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/ST-18T/xiaoyu/HiSIF-DTA-xiaoyu" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="haida@10.149.3.163:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/media/ST-18T/xiaoyu/HiSIF-DTA-xiaoyu" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
